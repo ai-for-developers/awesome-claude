@@ -343,6 +343,8 @@ async def parallel_analysis(document):
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `★ 13.1k` — Claude solves real GitHub issues end-to-end. Top performer on SWE-bench.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `★ 41.7k` — Open-source Devin alternative. Claude-powered software engineering agent with sandbox execution.
 
+- **[OpenPaw](https://github.com/daxaur/openpaw)** `★ New` -- Open-source CLI (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
+
 ### Research & Analysis
 
 - **[Storm](https://github.com/stanford-oval/storm)** `★ 9.6k` — Wikipedia-style report generation from scratch using multi-agent Claude research.
