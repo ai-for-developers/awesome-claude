@@ -337,6 +337,7 @@ async def parallel_analysis(document):
 
 ### Coding & Development
 
+- **[Claude Code Skills Registry](https://claude-skills.bdnhost.net/)** — Auto-discovered, daily-updated catalog of 250+ verified Claude Code skills. Aggregates from 9 sources (anthropics/skills, obra/superpowers, jeffallan/claude-skills, akin-ozer/cc-devops-skills + GitHub code search). Filter by 15 categories, source, language (EN/HE/ZH). Source: [bdnhost/claude-skills](https://github.com/bdnhost/claude-skills).
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** `★ 12.4k` — Full-featured CLI agent with file management, code execution, and self-improvement loops.
 - **[claude-coder](https://github.com/arnaud-eb/claude-coder)** `★ 3.2k` — Minimal but powerful code generation agent with test execution feedback.
 - **[repomix](https://github.com/yamadashy/repomix)** `★ 7.8k` — Pack entire repositories into a single file optimized for Claude's 1M context window.
