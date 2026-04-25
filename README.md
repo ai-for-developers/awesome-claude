@@ -165,6 +165,8 @@ message = client.messages.create(
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
 
+- **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** — MCP server that generates app icons, favicons, OG images, logos, and wordmarks by routing requests across 30+ image generation models. Three execution modes: inline SVG, external prompt, or full API generation. Zero API key required on first run via Pollinations and Stable Horde free tiers.
+
 ### Building an MCP Server
 
 ```typescript
@@ -342,6 +344,7 @@ async def parallel_analysis(document):
 - **[repomix](https://github.com/yamadashy/repomix)** `★ 7.8k` — Pack entire repositories into a single file optimized for Claude's 1M context window.
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `★ 13.1k` — Claude solves real GitHub issues end-to-end. Top performer on SWE-bench.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `★ 41.7k` — Open-source Devin alternative. Claude-powered software engineering agent with sandbox execution.
+- **[unslop](https://github.com/MohamedAbdallah-14/unslop)** — CLI and MCP server that removes AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. Works with Claude Code, Cursor, Codex, and Gemini CLI.
 
 ### Research & Analysis
 
