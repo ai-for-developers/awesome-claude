@@ -111,6 +111,7 @@ message = client.messages.create(
 - **[Cursor](https://cursor.sh)** — AI code editor with Claude 4 support. Codebase-aware completions, multi-file edits.
 - **[Aider](https://github.com/paul-gauthier/aider)** `★ 22k` — AI pair programming in the terminal. Multi-file edits, git history. Claude Sonnet 4 is the recommended default.
 - **[Cline (VS Code)](https://github.com/cline/cline)** `★ 18.4k` — Autonomous coding agent in VS Code. File system access, browser control, terminal execution, MCP.
+- **[Governor](https://github.com/0xhimanshu/governor)** `[NEW]` — Reduces Claude Code token/context waste with compact output, safe CLAUDE.md compression, tool-output filtering, and local telemetry.
 - **[Zed AI](https://zed.dev)** — High-performance editor with native Claude integration and inline assistant.
 - **[Continue](https://github.com/continuedev/continue)** `★ 14.2k` — Open-source VS Code & JetBrains extension. Custom context providers and fine-tuned slash commands.
 - **[Windsurf](https://codeium.com/windsurf)** — Agentic IDE by Codeium with Claude 4 support and Cascade agent flow.
