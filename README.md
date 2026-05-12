@@ -161,6 +161,7 @@ message = client.messages.create(
 - **[mcp-server-linear](https://github.com/linear/linear-mcp)** — Official Linear MCP. Issue tracking, project management.
 - **[mcp-server-stripe](https://github.com/stripe/agent-toolkit)** — Stripe API via MCP. Process payments, manage customers in Claude Code.
 - **[mcp-server-aws](https://github.com/awslabs/mcp)** `★ 3.1k` — AWS services via MCP. CloudFormation, S3, Lambda, CloudWatch.
+- **[mcp-server-devhelm](https://github.com/devhelmhq/mcp-server)** — Uptime monitoring, incident management, alerting, and dependency status via [DevHelm](https://devhelm.io).
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
