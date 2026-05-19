@@ -124,6 +124,7 @@ message = client.messages.create(
 
 ### Observability & Evaluation
 
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** — Inspects local Claude Code and other coding-agent sessions for token usage, cost, tool failures, latency, anomalies, diffs, and CI evidence.
 - **[LangSmith](https://smith.langchain.com)** — Trace Claude API calls, visualize chains, run evals, monitor production apps.
 - **[Braintrust](https://braintrustdata.com)** — Eval platform with dataset management, scoring, and regression tracking for Claude.
 - **[PromptLayer](https://promptlayer.com)** — Prompt versioning, A/B testing, and analytics for Claude API calls.
