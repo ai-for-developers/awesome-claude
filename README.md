@@ -121,6 +121,7 @@ message = client.messages.create(
 - **[Make (Integromat)](https://make.com)** — Visual automation platform with Claude modules for document processing and content workflows.
 - **[Zapier AI](https://zapier.com)** — Claude-powered Zaps. Natural language workflow creation and automated content pipelines.
 - **[Activepieces](https://github.com/activepieces/activepieces)** `★ 9.8k` — Open-source automation. Self-hostable with Claude AI pieces.
+- - **[SynquoRum](https://synquorum.com) [NEW]** — Multi-AI orchestration workspace with BYOK across all major providers, cross-provider persistent memory, MCP server, Computer Use agents, and 664 integrations. Free tier available.
 
 ### Observability & Evaluation
 
