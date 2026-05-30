@@ -156,6 +156,7 @@ message = client.messages.create(
 
 ### Community MCP Servers
 
+- **[mcp-server-shiori](https://github.com/kaorii-ako/Shiori-v1/tree/master/mcp)** — Student productivity MCP. Ask Claude about assignments, grades, notes, and flashcards. Includes full web app with Google Classroom sync and Gemini AI.
 - **[mcp-server-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** — Read/write Obsidian vaults. Let Claude reason over your notes.
 - **[mcp-server-notion](https://github.com/makenotion/notion-mcp-server)** — Official Notion MCP. Query, create, and update pages and databases.
 - **[mcp-server-linear](https://github.com/linear/linear-mcp)** — Official Linear MCP. Issue tracking, project management.
