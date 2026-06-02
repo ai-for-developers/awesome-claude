@@ -121,6 +121,7 @@ message = client.messages.create(
 - **[Make (Integromat)](https://make.com)** — Visual automation platform with Claude modules for document processing and content workflows.
 - **[Zapier AI](https://zapier.com)** — Claude-powered Zaps. Natural language workflow creation and automated content pipelines.
 - **[Activepieces](https://github.com/activepieces/activepieces)** `★ 9.8k` — Open-source automation. Self-hostable with Claude AI pieces.
+- **[publishing-skills](https://github.com/AutomateLab-tech/publishing-skills)** — Four composable Claude Code skills for end-to-end SEO blog publishing: topic research, drafting, figures, and editorial calendar.
 
 ### Observability & Evaluation
 
