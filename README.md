@@ -320,6 +320,7 @@ async def parallel_analysis(document):
 - **[Agno](https://github.com/agno-agi/agno)** `★ 4.1k` — Lightweight agent framework with first-class Claude support and built-in memory.
 - **[Smolagents](https://github.com/huggingface/smolagents)** `★ 8.6k` — HuggingFace's minimal agent library. Code-first agents with Claude backend.
 - **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** `★ 6.3k` — Type-safe agent framework. Schema-validated tool calls and structured outputs with Claude.
+- **[AgentLoop](https://github.com/mnifzied-create/agentloop)** — A minimal, readable Claude agent starter: the streaming + tool-use loop in ~150 lines (Next.js + Anthropic SDK, MIT).
 
 ---
 
