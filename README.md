@@ -164,6 +164,7 @@ message = client.messages.create(
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. 4 free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Remote streamable-http: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Building an MCP Server
 
