@@ -129,6 +129,10 @@ message = client.messages.create(
 - **[PromptLayer](https://promptlayer.com)** — Prompt versioning, A/B testing, and analytics for Claude API calls.
 - **[Helicone](https://helicone.ai)** — Open-source LLM observability. One-line Claude proxy with logging, caching, and rate limiting.
 
+### Skill Marketplaces
+
+- **[CreatorSkills](https://creatorskills.co)** — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+
 ---
 
 ## Model Context Protocol (MCP)
