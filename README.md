@@ -340,6 +340,7 @@ async def parallel_analysis(document):
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** `★ 12.4k` — Full-featured CLI agent with file management, code execution, and self-improvement loops.
 - **[claude-coder](https://github.com/arnaud-eb/claude-coder)** `★ 3.2k` — Minimal but powerful code generation agent with test execution feedback.
 - **[repomix](https://github.com/yamadashy/repomix)** `★ 7.8k` — Pack entire repositories into a single file optimized for Claude's 1M context window.
+- **[FolioDux](https://github.com/matteo-turri/foliodux)** `★ 4` — Lightweight file-mapping standard that lets any AI tool navigate large codebases without reading every file.
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `★ 13.1k` — Claude solves real GitHub issues end-to-end. Top performer on SWE-bench.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `★ 41.7k` — Open-source Devin alternative. Claude-powered software engineering agent with sandbox execution.
 
