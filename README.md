@@ -160,6 +160,7 @@ message = client.messages.create(
 - **[mcp-server-notion](https://github.com/makenotion/notion-mcp-server)** — Official Notion MCP. Query, create, and update pages and databases.
 - **[mcp-server-linear](https://github.com/linear/linear-mcp)** — Official Linear MCP. Issue tracking, project management.
 - **[mcp-server-stripe](https://github.com/stripe/agent-toolkit)** — Stripe API via MCP. Process payments, manage customers in Claude Code.
+- **[LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp)** — Query AI visibility analytics for brand mentions, citations, sentiment, share of voice, and AI traffic.
 - **[mcp-server-aws](https://github.com/awslabs/mcp)** `★ 3.1k` — AWS services via MCP. CloudFormation, S3, Lambda, CloudWatch.
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
