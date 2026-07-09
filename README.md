@@ -114,6 +114,7 @@ message = client.messages.create(
 - **[Zed AI](https://zed.dev)** — High-performance editor with native Claude integration and inline assistant.
 - **[Continue](https://github.com/continuedev/continue)** `★ 14.2k` — Open-source VS Code & JetBrains extension. Custom context providers and fine-tuned slash commands.
 - **[Windsurf](https://codeium.com/windsurf)** — Agentic IDE by Codeium with Claude 4 support and Cascade agent flow.
+- **[AgentBox](https://github.com/madarco/agentbox)** `★ 231` — Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean). Sub-1s checkpoints; git credentials kept on the host. MIT.
 
 ### Automation & Workflow
 
