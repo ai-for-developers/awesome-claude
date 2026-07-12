@@ -128,6 +128,7 @@ message = client.messages.create(
 - **[Braintrust](https://braintrustdata.com)** — Eval platform with dataset management, scoring, and regression tracking for Claude.
 - **[PromptLayer](https://promptlayer.com)** — Prompt versioning, A/B testing, and analytics for Claude API calls.
 - **[Helicone](https://helicone.ai)** — Open-source LLM observability. One-line Claude proxy with logging, caching, and rate limiting.
+- **[Future AGI](https://github.com/future-agi/future-agi)** — Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 
 ---
 
