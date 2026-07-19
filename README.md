@@ -341,6 +341,7 @@ async def parallel_analysis(document):
 - **[claude-coder](https://github.com/arnaud-eb/claude-coder)** `★ 3.2k` — Minimal but powerful code generation agent with test execution feedback.
 - **[repomix](https://github.com/yamadashy/repomix)** `★ 7.8k` — Pack entire repositories into a single file optimized for Claude's 1M context window.
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `★ 13.1k` — Claude solves real GitHub issues end-to-end. Top performer on SWE-bench.
+- **[DarkMoon](https://github.com/ASCIT31/Dark-Moon)** — Autonomous AI pentester (MCP host) that drives Claude to orchestrate 80+ offensive-security tools; open-source with a local Privacy Gateway. GPL-3.0.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `★ 41.7k` — Open-source Devin alternative. Claude-powered software engineering agent with sandbox execution.
 
 ### Research & Analysis
