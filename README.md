@@ -138,6 +138,7 @@ message = client.messages.create(
 - **[MCP Specification](https://spec.modelcontextprotocol.io)** — Official protocol spec and schema reference.
 - **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** — Build MCP servers in TypeScript/Node.js.
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** — Build MCP servers in Python.
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data MCP server for Claude.
 
 ### Official Anthropic MCP Servers
 
