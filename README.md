@@ -334,6 +334,7 @@ async def parallel_analysis(document):
 - **[Khoj](https://github.com/khoj-ai/khoj)** `★ 15.9k` — Self-hosted personal AI. Search notes, PDFs, org files with Claude as the reasoning backend.
 - **[mem0](https://github.com/mem0ai/mem0)** `★ 23.4k` — Memory layer for AI agents. Persistent, structured memories across Claude conversations.
 - **[Markprompt](https://github.com/motifland/markprompt)** `★ 2.9k` — AI-powered docs search and assistant using Claude over your Markdown documentation.
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ### Coding & Development
 
