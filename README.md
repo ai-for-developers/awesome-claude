@@ -114,6 +114,7 @@ message = client.messages.create(
 - **[Zed AI](https://zed.dev)** — High-performance editor with native Claude integration and inline assistant.
 - **[Continue](https://github.com/continuedev/continue)** `★ 14.2k` — Open-source VS Code & JetBrains extension. Custom context providers and fine-tuned slash commands.
 - **[Windsurf](https://codeium.com/windsurf)** — Agentic IDE by Codeium with Claude 4 support and Cascade agent flow.
+- **[Superagent](https://github.com/pungme/superagent-desktop)** — Open-source macOS desktop app giving Claude Code a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 
 ### Automation & Workflow
 
