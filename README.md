@@ -350,6 +350,8 @@ async def parallel_analysis(document):
 - **[Perplexica](https://github.com/ItzCrazyKns/Perplexica)** `★ 18.3k` — Open-source Perplexity. Self-hosted web research with Claude-powered synthesis.
 - **[AutoSurvey](https://github.com/AutoSurveys/AutoSurvey)** `★ 2.4k` — Automated academic literature review generation using Claude 4.
 
+- **[Claude Usage Limit Table](https://usagecaptable.com)** - Machine-readable Claude plan usage-limit dataset with per-cell source citations.
+
 ### Creative & Multimodal
 
 - **[Ebook-GPT](https://github.com/rajeshdavidbabu/pdf-chat)** `★ 4.1k` — Chat with entire books. Optimized for Claude's large context window.
