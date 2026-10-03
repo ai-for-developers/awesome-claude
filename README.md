@@ -342,6 +342,7 @@ async def parallel_analysis(document):
 - **[repomix](https://github.com/yamadashy/repomix)** `★ 7.8k` — Pack entire repositories into a single file optimized for Claude's 1M context window.
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `★ 13.1k` — Claude solves real GitHub issues end-to-end. Top performer on SWE-bench.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `★ 41.7k` — Open-source Devin alternative. Claude-powered software engineering agent with sandbox execution.
+- **[claudemanager](https://github.com/asifjahmed/claudemanager)** `[NEW]` — Routes Claude Code across several Claude Max accounts through a local proxy that switches before a usage window fills, and records every request with tokens and cost per session.
 
 ### Research & Analysis
 
