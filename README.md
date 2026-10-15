@@ -161,6 +161,7 @@ message = client.messages.create(
 - **[mcp-server-linear](https://github.com/linear/linear-mcp)** — Official Linear MCP. Issue tracking, project management.
 - **[mcp-server-stripe](https://github.com/stripe/agent-toolkit)** — Stripe API via MCP. Process payments, manage customers in Claude Code.
 - **[mcp-server-aws](https://github.com/awslabs/mcp)** `★ 3.1k` — AWS services via MCP. CloudFormation, S3, Lambda, CloudWatch.
+- **[google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp)** — Live Google Hotels, Google Vacation Rentals and 3-month daily price calendar from Claude; returns per-OTA rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com, 15+ sites) as JSON. Python stdio, MIT.
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
