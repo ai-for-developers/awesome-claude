@@ -164,7 +164,7 @@ message = client.messages.create(
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
-- **[mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp)** — Open-source B2B outbound sales MCP server: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch outreach sequences. Human approval required before sending. Install: `npx mach-gtm-mcp`. MIT.
+- **[mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp)** — Open-source MCP server. Five outbound sales helpers for B2B teams: build an ICP, draft a cold email or LinkedIn message from a buying signal you provide, get a prospect research checklist, score a lead 0-100 against your ICP, and lay out a multi-touch sequence. Works only from what you give it; it does not look anything up or send anything. Install: `npx -y github:verma6uc/mach-gtm-mcp`. MIT.
 
 ### Building an MCP Server
 
