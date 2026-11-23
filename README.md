@@ -164,6 +164,7 @@ message = client.messages.create(
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
+- **[WA MCP](https://github.com/tsahospital-beep/wa-mcp)** &mdash; Search linked WhatsApp chats and voice transcripts from Claude Desktop or Claude Code.
 
 ### Building an MCP Server
 
